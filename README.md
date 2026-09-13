@@ -15,7 +15,7 @@ Compose. Docker Desktop is the only prerequisite.
 
 Open these addresses after the containers have started:
 
-- Frontend: <http://localhost:3003>
+- Frontend: <http://localhost:3000>
 - Backend test endpoint: <http://localhost:3001/test>
 - MySQL from a host database client: `localhost:3307`
 
